@@ -2,4 +2,4 @@
 #We will use the command STR()
 
 x=3
-print("The value of x is: "+str(x))
+print("The value of x is: "+str(x)+" and it's square is: "+str(x**2))
